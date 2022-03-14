@@ -11,7 +11,9 @@ When starting a new R Markdown script, go to "From Template", then select `custo
 <!-- badges: start
 [![R-CMD-check](https://github.com/fraupflaume/customYAML2/workflows/R-CMD-check/badge.svg)](https://github.com/fraupflaume/customYAML2/actions)
 <!-- badges: end -->
+
 This will create an RMD file with your template.
+
 ![image](https://user-images.githubusercontent.com/32872512/158230942-3fcd2346-382a-45f0-8abf-672b7405f484.png)
 
 
