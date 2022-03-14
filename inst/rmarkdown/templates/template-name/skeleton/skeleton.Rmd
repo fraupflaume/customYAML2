@@ -1,0 +1,27 @@
+---
+title: Title
+author: Amar Al-Zubaidi
+date: \today
+mainfont: Inconsolata Nerd Font
+sansfont: Inconsolata Nerd Font
+monofont: Inconsolata Nerd Font
+fontsize: 11pt
+table-use-row-colors: true
+bibliography: /home/amarakon/Documents/bibliography.bib
+csl: /home/amarakon/Documents/Citations/apa-no-initials.csl
+classoption: letterpaper
+output:
+  pdf_document:
+    keep_tex: true
+    latex_engine: xelatex
+    template: eisvogel
+    number_sections: true
+---
+
+
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE)
+
+```
