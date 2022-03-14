@@ -1,4 +1,5 @@
 # customYAML2
+<<<<<<< HEAD
 
 Creating a custom YAML as an RMarkdown Template
 
@@ -9,3 +10,6 @@ When starting a new R Markdown script, go to "From Template", then select `custo
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/fraupflaume/customYAML2/workflows/R-CMD-check/badge.svg)](https://github.com/fraupflaume/customYAML2/actions)
 <!-- badges: end -->
+=======
+Custom YAML for amarakon
+>>>>>>> refs/remotes/origin/main
